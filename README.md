@@ -1,8 +1,8 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Dashboard Page
 
-Currently, two official plugins are available:
+In this project, we're using React with Tailwind CSS and DaisyUI to create a sleek and user-friendly interface. By blending these technologies, we're pushing the boundaries of modern UI design to deliver an exceptional user experience.
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://aneoxy-task-dashboard-design.onrender.com/
+
